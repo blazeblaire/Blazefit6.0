@@ -58,7 +58,7 @@ h1 {
 .container {
     border-radius: 10px;
     margin-right: 20px;
-    display: flex;
+    /* display: flex; */
 }
 
 #recommendation {
@@ -70,7 +70,6 @@ h1 {
 
 /* Workouts section */
 
-/* suggested */
 
 .workouts {
     display: grid;
@@ -82,18 +81,19 @@ h1 {
     padding: 20px;
 }
 
+/* Rendered workout plan */
 .workout-plan {
-    grid-column: 1 / -1;
     background: linear-gradient(90deg, rgba(210, 180, 255, 0.18), rgba(200, 240, 255, 0.08));
     border-radius: 10px;
     display: flex;
-    align-items: center;
-    justify-content: space-between;
     padding: 20px;
     box-shadow: 0 10px 30px rgba(2, 6, 23, 0.6);
     overflow: hidden;
-    height: 400px;
-
+    margin-top: 8px;
+    margin: 28px;
+    height: fit-content;
+    flex-direction: column;
+    font-size: 16px;
 }
 
 .suggested {
