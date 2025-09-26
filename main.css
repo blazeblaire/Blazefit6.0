@@ -9,15 +9,12 @@ body {
     padding: 10px;
     margin: 10px;
     background: linear-gradient(135deg, #d9c9ff 0%, #d6f0ff 100%);
-
-
 }
 
 h1 {
     font-size: 40px;
     font-weight: bolder;
 }
-
 
 .mood {
     margin-left: 30px;
@@ -51,22 +48,18 @@ h1 {
 }
 
 .md-button:hover {
-    /* Enlarge image to 110% */
     transform: scale(1.1);
+}
+
+.md-button:active {
+    background: linear-gradient(90deg, rgba(94, 138, 227, 0.18), rgba(200, 240, 255, 0.08));
+
 }
 
 .container {
     border-radius: 10px;
     margin-right: 20px;
-    /* display: flex; */
 }
-
-#recommendation {
-    padding: 15px;
-    margin: 10px;
-    border-radius: 10px;
-}
-
 
 /* Workouts section */
 
@@ -113,7 +106,6 @@ h1 {
     gap: 18px;
     align-items: center;
     box-shadow: 0 6px 20px rgba(2, 6, 23, 0.6);
-    /* position: relative; */
 }
 
 .background {
@@ -140,14 +132,6 @@ h1 {
     margin-top: 12px;
 }
 
-/* span {
-    display: inline-block;
-    background: rgba(255, 255, 255, 0.06);
-    color: var(--muted);
-    padding: 6px 10px;
-    border-radius: 999px;
-    font-size: 13px;
-} */
 
 .footer {
     margin-left: 30px;
@@ -167,6 +151,5 @@ h1 {
 
 
 .background:hover {
-    /* Enlarge image to 110% */
     transform: scale(1.1);
 }

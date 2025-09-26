@@ -1,7 +1,7 @@
 {
     "Energized": {
         "feedback": "Amazing! Let's get those muscles fired up. I just cooked up something for you:",
-        "plan": {
+        "section": {
             "Warm-Up": [
                 "Warm-Up (5–7 min)",
                 "Rope skips / treadmill jog / rowing",
@@ -26,7 +26,7 @@
     },
     "Happy": {
         "feedback": "Feeling good? Let’s keep the fun flowing!",
-        "plan": {
+        "section": {
             "Warm-Up": [
                 "Warm-Up (5 min)",
                 "Jumping jacks (1 min)",
@@ -53,7 +53,7 @@
     },
     "Low": {
         "feedback": "Not at 100%? Let’s keep it light but effective.",
-        "plan": {
+        "section": {
             "Warm-Up": [
                 "Warm-Up (5 min)",
                 "Light treadmill walk or slow stationary bike"
@@ -76,7 +76,7 @@
     },
     "Calm": {
         "feedback": "Perfect! Let’s keep that centered energy while still building strength and mobility.",
-        "plan": {
+        "section": {
             "Warm-Up": [
                 "Warm-Up (5–7 min)",
                 "Light treadmill walk or stationary bike (3–4 min)",
@@ -107,7 +107,7 @@
     },
     "Stressed": {
         "feedback": "Let’s calm you down, release tension, and clear your head.",
-        "plan": {
+        "section": {
             "Warm-Up": [
                 "Warm-Up (5 min)",
                 "Light treadmill walk or stationary bike",
@@ -131,7 +131,7 @@
     },
     "Excited": {
         "feedback": "Let's channel that energy into some high-intensity, dynamic movements that keep the momentum going.!",
-        "plan": {
+        "section": {
             "Warm-Up": [
                 "Warm-Up (5–7 min)",
                 "Rope skips / High knees (2 min)",
