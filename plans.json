@@ -1,0 +1,155 @@
+{
+    "Energized": {
+        "feedback": "Amazing! Let's get those muscles fired up. I just cooked up something for you:",
+        "plan": {
+            "Warm-Up": [
+                "Warm-Up (5–7 min)",
+                "Rope skips / treadmill jog / rowing",
+                "Dynamic stretches (leg swings, arm circles, torso twists)"
+            ],
+            "Main-Workout": [
+                "Strength Training (35–40 min)",
+                "Compound Lifts (3 sets of 8–12 reps)",
+                "Squats (barbell or dumbbells)",
+                "Bench Press / Push-Ups",
+                "Deadlifts / Romanian Deadlifts",
+                "Pull-Ups / Lat Pulldown",
+                "6–8 rounds: 30s Sprint + 60s Rest (treadmill/bike/rower)",
+                "Circuit: Burpees, Kettlebell Swings, Mountain Climbers (30s each, repeat 4–5 rounds)"
+            ],
+            "Cool-Down": [
+                "Cool Down & Stretch (5–10 min)",
+                "Slow walk or cycling",
+                "Stretch major muscle groups (hamstrings, quads, shoulders, chest)"
+            ]
+        }
+    },
+    "Happy": {
+        "feedback": "Feeling good? Let’s keep the fun flowing!",
+        "plan": {
+            "Warm-Up": [
+                "Warm-Up (5 min)",
+                "Jumping jacks (1 min)",
+                "High knees (1 min)",
+                "Arm circles (1 min)",
+                "Pogos (2 min)"
+            ],
+            "Main-Workout": [
+                "Main Workout (30 min)",
+                "3 rounds, 1 min rest between rounds",
+                "12 Push-ups",
+                "15 Air squats",
+                "10 Burpees",
+                "Mountain climbers (30 sec)",
+                "12 Dumbbell shoulder press"
+            ],
+            "Cool-Down": [
+                "Cool-Down & Stretch (5 min)",
+                "Hamstring stretch",
+                "Shoulder rolls",
+                "Deep breathing (inhale 4, exhale 6)"
+            ]
+        }
+    },
+    "Low": {
+        "feedback": "Not at 100%? Let’s keep it light but effective.",
+        "plan": {
+            "Warm-Up": [
+                "Warm-Up (5 min)",
+                "Light treadmill walk or slow stationary bike"
+            ],
+            "Main-Workout": [
+                "Full-Body Circuit (20 min, repeat 2–3 rounds)",
+                "12 Bodyweight Squats",
+                "10 Seated Rows (machine)",
+                "8 Push-Ups",
+                "Walking Lunges (10 steps each leg)",
+                "Plank Hold (30 seconds)"
+            ],
+            "Cool-Down": [
+                "Cool-Down & Stretch (5 min)",
+                "Hamstring stretch",
+                "Shoulder rolls",
+                "Deep breathing (inhale 4, exhale 6)"
+            ]
+        }
+    },
+    "Calm": {
+        "feedback": "Perfect! Let’s keep that centered energy while still building strength and mobility.",
+        "plan": {
+            "Warm-Up": [
+                "Warm-Up (5–7 min)",
+                "Light treadmill walk or stationary bike (3–4 min)",
+                "Dynamic stretches (leg swings, arm circles, torso twists)"
+            ],
+            "Main-Workout": [
+                "Strength & Control (25–30 min)",
+                "Dumbbell Bench Press (3 × 10–12 reps)",
+                "Seated Row  (3 × 10–12 reps)",
+                "Goblet Squats (3 × 12–15 reps)",
+                "Dumbbell Shoulder Press (3 × 10 reps)",
+                "Plank Hold (3 × 30 sec)"
+            ],
+            "Mobility": [
+                "Mobility & Core (10–15 min)",
+                "Cat-Cow stretches",
+                "Hip flexor stretch",
+                "Side planks (2 × 30 sec each side)",
+                "Bird-Dogs (2 × 12 each side)"
+            ],
+            "Cool-Down": [
+                "Cool-Down (5–7 min)",
+                "Hamstring stretch",
+                "Chest opener against wall",
+                "Deep breathing (inhale 4, exhale 6)"
+            ]
+        }
+    },
+    "Stressed": {
+        "feedback": "Let’s calm you down, release tension, and clear your head.",
+        "plan": {
+            "Warm-Up": [
+                "Warm-Up (5 min)",
+                "Light treadmill walk or stationary bike",
+                "Deep breathing: inhale 4 sec, exhale 6 sec"
+            ],
+            "Main-Workout": [
+                "Stress Relief Circuit (2–3 rounds)",
+                "12 Bodyweight Squats",
+                "12 Seated Rows",
+                "10 Push-ups",
+                "10 Dumbbell Shoulder Press",
+                "Plank Hold 30 sec"
+            ],
+            "Cool-Down": [
+                "Cool-Down (5–7 min)",
+                "Hamstring stretch",
+                "Chest opener against wall",
+                "Deep breathing (inhale 4, exhale 6)"
+            ]
+        }
+    },
+    "Excited": {
+        "feedback": "Let's channel that energy into some high-intensity, dynamic movements that keep the momentum going.!",
+        "plan": {
+            "Warm-Up": [
+                "Warm-Up (5–7 min)",
+                "Rope skips / High knees (2 min)",
+                "Arm circles + dynamic stretches",
+                "10 squats + 10 push-ups"
+            ],
+            "Main-Workout": [
+                "Strength + Power (25–30 min)",
+                "Superset 1: Bench press × 10 + Shoulder press × 12 (3 rounds)",
+                "Superset 2: Deadlifts × 8 + Pull-ups × 8–12 (3 rounds)",
+                "Superset 3: Walking lunges × 12 + Kettlebell swings × 15 (3 rounds)",
+                "30 sec sprint + 30 sec rest (8–10 rounds)",
+                "Burpee challenge: max reps in 5 minutes"
+            ],
+            "Cool-Down": [
+                "Cool Down (5–10 min)",
+                "Slow walk + deep stretches (hamstrings, chest, shoulders)"
+            ]
+        }
+    }
+}
