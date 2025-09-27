@@ -1,5 +1,4 @@
 document.addEventListener('DOMContentLoaded', () => {
-    // const base_url = 'http://localhost:3000/';
     const workoutPlan = document.querySelector('.workout-plan');
     const bT = document.querySelectorAll('button')  // grab all the buttons
     //get workout plans from json
